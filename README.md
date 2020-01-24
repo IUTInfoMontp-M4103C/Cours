@@ -3,4 +3,4 @@
 ### IUT Montpellier-Sète – Département Informatique
 
 ## Cours 1
-#### _Thème : bases_
+#### _Thème : Généralités, variables, tableaux, fonctions_
