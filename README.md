@@ -4,3 +4,6 @@
 
 ## Cours 1
 #### _Thème : Généralités, variables, tableaux, fonctions_
+
+la version [pdf](ressources/pdf/Cours1-JS-2020.pdf)
+
