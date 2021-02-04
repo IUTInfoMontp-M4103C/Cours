@@ -12,8 +12,12 @@
 
 [Cours2-JS-2020.pdf](ressources/pdf/Cours2-JS-2020.pdf) ou [version à imprimer](ressources/pdf/Cours2-JS-2020-print.pdf) (4 par slide).
 
-
 <!-- ## Cours 3 -->
 <!-- #### _Thème : Asynchronisme en JavaScript_ -->
 
 <!-- [Cours3-JS-2020.pdf](http://www.sgagne-iutinfo.ovh/JS/Cours/Cours3-JS-2020.pdf) -->
+
+## Enregistrement des cours
+
+Dans le [salon BBB "Cours Prog Web - Client Riche -
+JavaScript"](https://moodle.umontpellier.fr/mod/bigbluebuttonbn/view.php?id=378382)
