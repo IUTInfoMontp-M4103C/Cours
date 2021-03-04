@@ -12,10 +12,10 @@
 
 [Cours2-JS-2020.pdf](ressources/pdf/Cours2-JS-2020.pdf) ou [version à imprimer](ressources/pdf/Cours2-JS-2020-print.pdf) (4 par slide).
 
-<!-- ## Cours 3 -->
-<!-- #### _Thème : Asynchronisme en JavaScript_ -->
+## Cours 3
+#### _Thème : Asynchronisme en JavaScript_
 
-<!-- [Cours3-JS-2020.pdf](http://www.sgagne-iutinfo.ovh/JS/Cours/Cours3-JS-2020.pdf) -->
+[Cours3-JS-2020.pdf](ressources/pdf/Cours3-JS-2020.pdf) ou [version à imprimer](ressources/pdf/Cours3-JS-2020-print.pdf) (4 par slide).
 
 ## Enregistrement des cours
 
